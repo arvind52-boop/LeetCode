@@ -6,23 +6,23 @@ Welcome to my **LeetCode Solutions Repository**! This repository is dedicated to
 ---
 
 ## 📂 Repository Structure  
-
-The repository is organized as follows:  
-leetcode/
-│
-├── POTD/ # Contains solutions to the Problem of the Day
-│ ├── YYYY-MM-DD/ # Folder for each day
-│ ├── problem-name.extension
-│ └── explanation.md
-│
-├── Extra-Problems/ # Solutions for additional problems solved outside POTD
-│ ├── problem-category/ # (e.g., Arrays, DP, Graphs)
-│ ├── problem-name.extension
-│ └── explanation.md
-│
-└── README.md # This file
 ---
+```plaintext
+leetcode-repo/  
+│  
+├── POTD/                 # Contains solutions to the Problem of the Day  
+│   ├── YYYY-MM-DD/       # Folder for each day  
+│       ├── problem-name.extension  
+│       └── explanation.md  
+│  
+├── Extra-Problems/       # Solutions for additional problems solved outside POTD  
+│   ├── problem-category/ # (e.g., Arrays, DP, Graphs)  
+│       ├── problem-name.extension  
+│       └── explanation.md  
+│  
+└── README.md             # This file
 
+----
 ## ✨ Features  
 
 - **Daily Problem Solutions**  
